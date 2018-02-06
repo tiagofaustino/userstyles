@@ -1,0 +1,38 @@
+@-moz-document domain(globo.com) {
+    body {
+    background: #0f0b06 !important
+    }
+    .diretorio-home {
+        background-color: #241b0f;
+    }
+    .home-topglobocom {
+        background-color: #241b0f;
+    }
+    .hui-section-title{
+        color: #a6a6a6
+    }    
+    .topglobocom__content-title:before {
+        color: #a6a6a6
+    }
+    body.multicontent {
+        color: #bfbfbf
+    }
+    h1.content-head__title, #glb-materia .materia-titulo h1{
+        color: #bfbfbf
+    }
+    h2.content-head__subtitle{
+        color: #a6a6a6
+    }
+    #glb-materia .materia-conteudo p {
+        color: #a6a6a6
+    }
+    .glbComentarios-dados-usuario>.glbComentarios-texto-comentario, .glbComentarios, .corpo {
+        color: #a6a6a6;
+    }
+    .cb-post-content, .cb-post-content blockquote {
+        color: #cac9c9;
+    }
+  .glbComentarios-dados-usuario>.glbComentarios-dados-usuario-nome {
+        color: #cac9c9;
+   }
+}
