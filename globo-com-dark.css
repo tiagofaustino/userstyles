@@ -8,7 +8,7 @@
     .home-topglobocom {
         background-color: #241b0f;
     }
-    .hui-section-title{
+    .hui-section-title, .materia .materia__header .materia__titulo{
         color: #a6a6a6
     }    
     .topglobocom__content-title:before {
@@ -20,10 +20,10 @@
     h1.content-head__title, #glb-materia .materia-titulo h1{
         color: #bfbfbf
     }
-    h2.content-head__subtitle{
+    h2.content-head__subtitle, .materia .materia__content .foto .foto-legenda{
         color: #a6a6a6
     }
-    #glb-materia .materia-conteudo p {
+    #glb-materia .materia-conteudo p, .materia .materia__wrap-content p {
         color: #a6a6a6
     }
     .glbComentarios-dados-usuario>.glbComentarios-texto-comentario, .glbComentarios, .corpo {
